@@ -16,7 +16,6 @@ require (
 	github.com/anacrolix/gostdapp v0.1.0
 	github.com/anacrolix/log v0.15.3-0.20240627045001-cd912c641d83
 	github.com/anacrolix/missinggo v1.3.0
-	github.com/anacrolix/missinggo/v2/perf v1.0.0
 	github.com/anacrolix/missinggo/v2 v2.7.3
 	github.com/anacrolix/multiless v0.3.0
 	github.com/anacrolix/possum/go v0.1.1-0.20240321122240-a01f3a22f2d1
@@ -63,6 +62,7 @@ require (
 	github.com/alecthomas/atomic v0.1.0-alpha2 // indirect
 	github.com/alexflint/go-scalar v1.1.0 // indirect
 	github.com/anacrolix/backtrace v0.0.0-20221205112523-22a61db8f82e // indirect
+	github.com/anacrolix/missinggo/perf v1.0.0 // indirect
 	github.com/anacrolix/mmsg v1.0.0 // indirect
 	github.com/anacrolix/stm v0.4.0 // indirect
 	github.com/benbjohnson/immutable v0.3.0 // indirect
